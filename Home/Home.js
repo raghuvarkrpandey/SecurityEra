@@ -78,7 +78,7 @@ render() {
               <div class="carousel-item" style={{ backgroundImage: `url(${slide1})` }}>
                 <div class="carousel-container">
                   <div class="carousel-content animate__animated animate__fadeInUp">
-                    <h2>&#160;</h2>
+                    <h2>&#160;&#160;</h2>
                     <p><strong><i>SecurityEra understands the need of digital security and solves your toughest challenges to ensure that your personal data remains personal and never compromised</i></strong></p>
                     <div class="text-center"><a href="" class="btn-get-started">Read More</a></div>
                   </div>
